@@ -1,5 +1,4 @@
-### Olá! 👋
-### Me chamo Christian Santos 🐱‍🏍
+### Olá! Me chamo Christian Santos 🐱‍🏍
 
 - 🧠 Atualmente estudando progamação
 - 🐱‍👤 Foco em HTML, CSS, JavaScript e TypeScript
